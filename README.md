@@ -11,5 +11,5 @@ This is a personal portfolio application built using **Flutter**. It showcases m
 - **GridView**: Used for displaying the tech stack logos in a grid layout.
 - **Assets**: Custom logos for each tech stack and images are placed in the `/assets` folder.
 
-![img.png](img.png)
+![img_2.png](img_2.png)
 ![img_1.png](img_1.png)
